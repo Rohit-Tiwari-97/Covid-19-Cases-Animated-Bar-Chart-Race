@@ -7,3 +7,8 @@ USA, China, Brazil, Russia, UK. Bangladesh, Pakistan between the time period of 
 Key Skills : Python, pandas library.
 
 Dataset Source : kaggle.com
+
+
+# To see the output of Project click the below video ...👇 👇 👇... 
+
+ [![Covid-19-Cases-Animated-Bar-Chart-Race](https://img.youtube.com/vi/9Y9k-OcmaRE/0.jpg)](https://www.youtube.com/watch?v=9Y9k-OcmaRE)
