@@ -4,9 +4,9 @@ Unlike other tutorials that allow you to use a pre loaded bcr dataset, we will p
 In this project, I created an animated bar chart race for the number of covid-19 cases of 8 countries India,
 USA, China, Brazil, Russia, UK. Bangladesh, Pakistan between the time period of Feb 2020 to April 2021.
 
-Key Skills : Python, pandas library.
+Key Skills : Python, Pandas, data visualization 
 
-Dataset Source : kaggle.com
+Dataset Source : worldometers.info
 
 
 # To see the output of Project click the below video ...👇 👇 👇... 
